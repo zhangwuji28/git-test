@@ -5,5 +5,6 @@ public class Test {
         System.out.println("测试git1");
         System.out.println("测试git2");
         System.out.println("测试git3");
+        System.out.println("测试github test4");
     }
 }
